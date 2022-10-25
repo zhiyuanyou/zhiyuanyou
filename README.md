@@ -1,7 +1,7 @@
 ### Hi, there, I’m Zhiyuan You (尤志远) 👋
 
 - 🔭 I received my B.Eng degree (with honor!) and M.Eng degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) in 2020 and 2023.
-- 🤔 My research interests lie primaily in ***Deep Learning in Computer Vision***, especially ***Anomaly Detection*** and ***Few-Shot Learning***.
+- 🤔 My research interests lie primarily in ***Deep Learning in Computer Vision***, especially ***Anomaly Detection*** and ***Few-Shot Learning***.
 - 🤝🏻 Contact with me via my email zhiyuanyou@foxmail.com.
 
 ### Experience
