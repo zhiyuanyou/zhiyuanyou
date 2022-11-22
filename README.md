@@ -6,7 +6,7 @@
 
 ### Experience
 
-- **[2020.12-Current]** Research Intership in [SenseTime](https://www.sensetime.com/cn).
+- **[2020.12-2022.11]** Research Intership in [SenseTime](https://www.sensetime.com/cn).
 - **[2020.6-2020.9]** Research Intership in [EM-Data](https://www.em-data.com.cn).
 - **[2018.10-2019.7]** Computer Vision Algorithm Engineer in MaiNe Tech (a startup established by graduate students in SJTU).
 
