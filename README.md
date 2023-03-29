@@ -7,8 +7,8 @@
 ### Experience
 
 - **[2022.12-2023.3]** Software Engineer (perception algorithm for autonomous driving) in [Horizon Robotics](https://en.horizon.ai/).
-- **[2020.12-2022.11]** Research Intership (anomaly detection & few-shot learning) in [SenseTime](https://www.sensetime.com/en).
-- **[2020.6-2020.9]** Research Intership (deep learning for meteorology) in [EM-Data](https://www.em-data.com.cn).
+- **[2020.12-2022.11]** Research Internship (anomaly detection & few-shot learning) in [SenseTime](https://www.sensetime.com/en).
+- **[2020.6-2020.9]** Research Internship (deep learning for meteorology) in [EM-Data](https://www.em-data.com.cn).
 - **[2018.10-2019.7]** Software Engineer (computer vision for automation) in MaiNe Tech (a startup established by graduate students in SJTU).
 
 
